@@ -1,17 +1,25 @@
-# hesega
+# HESEGA
 
-A new Flutter project.
+HESEGA BLUEBAIT is a marine live feed company focused on the production and development of high-quality polychaetes, microalgae, and other live feed solutions for sustainable aquaculture and shrimp hatchery operations.
 
-## Getting Started
+## HESEGA Mobile Application
 
-This project is a starting point for a Flutter application.
+This repository contains the Flutter source code for the HESEGA mobile application.
 
-A few resources to get you started if this is your first Flutter project:
+### Technology Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Firebase
+- Cloud Firestore
+- Firebase Authentication (OTP Login)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Purpose
+
+The HESEGA mobile application is being developed to support:
+
+- Shrimp farmers
+- Shrimp hatcheries
+- Aquaculture professionals
+- Researchers
+
+The application will provide farmer registration, hatchery management, pond records, disease diagnosis, water quality monitoring, and AI-assisted aquaculture solutions.
