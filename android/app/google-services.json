@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088209684753",
+    "project_id": "hesega-a7911",
+    "storage_bucket": "hesega-a7911.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088209684753:android:a09d80ce67f9e54d2864b0",
+        "android_client_info": {
+          "package_name": "com.example.hesega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnueNu0k_n06GZGFpw-wG8vLlbp8O-VMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
